@@ -2,10 +2,10 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: 'IKS.MOE 页面状态',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://kukisa.github.io/',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
